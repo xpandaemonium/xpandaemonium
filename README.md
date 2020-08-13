@@ -1,30 +1,41 @@
-## &nbsp;<img width="16px" src="https://github.com/daephx/daephx/blob/master/assets/Mario_Hello.gif"> **Welcome Friends**
+## &nbsp;<img width="20px" src="https://github.com/daephx/daephx/blob/master/assets/Mario_Hello.gif"> **Welcome Friends**
 
-<div style="display: grid; grid-template-columns: 60% 40%; border: 3px solid #0f0; overflow: auto;">
-	<div style="border: 3px solid #f0f">
-		Thanks GitHub! This is a pretty cool README setup. I'm gonna have to do some playing around.
-		<br><br>
-		Commodo laborum pariatur deserunt velit officia enim aliqua anim duis magna id magna aliqua. Adipisicing laboris enim pariatur quis aliquip Lorem. Adipisicing nisi Lorem consectetur ipsum adipisicing. Laboris nostrud non commodo duis velit Lorem proident officia consequat. Reprehenderit reprehenderit reprehenderit incididunt fugiat eu. Pariatur nulla voluptate amet nulla id irure cupidatat in ex ad aliquip velit.
-	</div>
-	<div style="border: 3px solid #fff; height: relative; float: right; padding: 1em;">
-		<!-- Github Stats -->
-		<img width=348
-			src="https://github-readme-stats.vercel.app/api?username=daephx&show_icons=true&hide_border=true&bg_color=00000000&text_color=dddddd&count_private=true&include_all_commits=true"/>
-		<img width=320
-			src="https://github-readme-stats.vercel.app/api/top-langs/?username=daephx&layout=compact&show_icons=true&hide_border=true&bg_color=00000000&text_color=dddddd&count_private=true"/>
-		<div style="border: 3px solid #ff0; float: left; height: relative; overflow: auto;">
-			<a href="https://gitlab.com/daephx"><img alt="Daemon Phenex | GitLab" width="26px"
-					src="https://github.com/daephx/daephx/blob/master/assets/GitLab.svg" /></a>
-			<a href="https://in.linkedin.com/in/daephx"><img alt="Daemon Phenex | Linkedin" width="24px"
-					src="https://github.com/daephx/daephx/blob/master/assets/Linkedin.svg" /></a>
-			<a href="https://instagram.com/daephx/"><img alt="Daemon Phenex | Instagram" width="24px"
-					src="https://github.com/daephx/daephx/blob/master/assets/Instagram.svg" /></a>
-			<a href="https://twitter.com/daephx"><img alt="Daemon Phenex | Twitter" width="24px"
-					src="https://github.com/daephx/daephx/blob/master/assets/Twitter.svg" /></a>
-			<a href="https://youtube.com/daephx"><img alt="Daemon Phenex | Youtube" width="26px"
-					src="https://github.com/daephx/daephx/blob/master/assets/YouTube.svg" /></a>
-			<a href="mailto:demonphoenix42@gmail.com"><img alt="Daemon Phenex | Gmail" width="26px"
-					src="https://github.com/daephx/daephx/blob/master/assets/Gmail.svg" /></a>
-		</div>
-	</div>
+<!-- Github Stats -->
+
+<div>
+<div style="float: right" align=right>
+<a target="_blank" rel="noopener noreferrer" href=""><img style="float: right;" align=right width=350
+		src="https://github-readme-stats.vercel.app/api?username=daephx&show_icons=true&hide_border=true&bg_color=00000000&text_color=dddddd&count_private=true&include_all_commits=true"></img></a>
+<div style="clear: right" align=right>
+<a target="_blank" rel="noopener noreferrer" href=""><img style="clear: right;" align=right width=360
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=daephx&layout=compact&show_icons=true&hide_border=true&bg_color=00000000&text_color=dddddd" /></a>
+
+<div style="clear: left" align=left>
+<!-- Social Links -->
+<a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/daephx"><img style="clear:right; padding-right:10px;" align=right
+		alt="Daemon Phenex | GitLab" width="26px"
+		src="https://github.com/daephx/daephx/blob/master/assets/GitLab.svg" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://in.linkedin.com/in/daephx"><img style="padding-right:10px;" align=right
+		alt="Daemon Phenex | Linkedin" width="24px"
+		src="https://github.com/daephx/daephx/blob/master/assets/Linkedin.svg" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://instagram.com/daephx/"><img style="padding-right:10px;" align=right
+		alt="Daemon Phenex | Instagram" width="24px"
+		src="https://github.com/daephx/daephx/blob/master/assets/Instagram.svg" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/daephx"><img style="padding-right:10px;" align=right
+		alt="Daemon Phenex | Twitter" width="24px"
+		src="https://github.com/daephx/daephx/blob/master/assets/Twitter.svg" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://youtube.com/daephx"><img style="padding-right:10px;" align=right
+		alt="Daemon Phenex | Youtube" width="26px"
+		src="https://github.com/daephx/daephx/blob/master/assets/Youtube.svg" /></a>
+<a target="_blank" rel="noopener noreferrer" href="mailto:demonphoenix42@gmail.com"><img style="padding-right:10px;" align=right
+		alt="Daemon Phenex | Gmail" width="26px"
+		src="https://github.com/daephx/daephx/blob/master/assets/Gmail.svg" /></a>
 </div>
+</div>
+</div>
+<!-- Text Body -->
+Thanks GitHub! This is a pretty cool README setup. I'm gonna have to do some playing around.<br><br>
+Sit do cillum amet enim qui reprehenderit est do consectetur nulla ad. Proident nisi ea magna minim cillum sit consectetur ut fugiat cupidatat cillum. Occaecat Lorem ea exercitation cupidatat fugiat duis enim voluptate enim excepteur. Pariatur proident quis ut sunt id ipsum est in excepteur enim veniam cupidatat eu. Esse aute velit Lorem labore culpa nostrud. Ex ad anim adipisicing occaecat velit incididunt.
+Eiusmod in duis exercitation ullamco excepteur in cillum officia officia consequat adipisicing voluptate non. Cupidatat culpa sint fugiat eiusmod adipisicing proident non Lorem id. Ad eu ex velit ad laborum velit consequat laboris sint laborum est. Eiusmod proident laborum velit et sunt et in ut veniam eiusmod sit sunt est id. Amet est aliqua mollit reprehenderit ad fugiat. Esse nisi Lorem eiusmod veniam mollit et enim magna veniam sint proident aute dolore. Excepteur sint tempor ea Lorem.
+Est in ea tempor et proident. Ut sit duis ullamco nisi incididunt nostrud. Veniam magna amet irure consectetur occaecat deserunt ad ipsum dolor voluptate quis. Ut sint voluptate ullamco commodo adipisicing velit aliqua labore eiusmod ad reprehenderit sunt.
+Velit pariatur tempor excepteur labore anim commodo labore. Aliqua sint deserunt eiusmod eu. Ea incididunt sit excepteur sint laborum non cillum duis fugiat culpa tempor qui cupidatat fugiat. Aliqua nostrud sint laborum do nisi ullamco aute mollit. Occaecat cillum eiusmod eiusmod enim eiusmod reprehenderit. Aliquip adipisicing enim qui sint enim cupidatat ea tempor nisi deserunt id est.
