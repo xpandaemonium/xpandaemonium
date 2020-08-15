@@ -5,7 +5,10 @@
         <td width=60% valign="top">
             <!-- Text Body -->
             Thanks GitHub! This is a pretty cool README setup. I'm gonna have to do some playing around.<br><br>
-            Et do deserunt eu commodo in pariatur irure sunt reprehenderit nostrud deserunt qui in tempor. Magna nostrud minim qui elit adipisicing tempor anim. Esse velit pariatur consequat veniam laboris pariatur et pariatur. Mollit consectetur proident ex culpa consectetur incididunt minim. Ipsum do commodo cupidatat tempor quis. Proident anim pariatur do commodo voluptate elit ut minim duis.
+            Et do deserunt eu commodo in pariatur irure sunt reprehenderit nostrud deserunt qui in tempor. Magna nostrud
+            minim qui elit adipisicing tempor anim. Esse velit pariatur consequat veniam laboris pariatur et pariatur.
+            Mollit consectetur proident ex culpa consectetur incididunt minim. Ipsum do commodo cupidatat tempor quis.
+            Proident anim pariatur do commodo voluptate elit ut minim duis.
         </td>
         <td width=40% valign="top">
             <!-- Github Stats -->
@@ -36,3 +39,39 @@
         </td>
     </tr>
 </table>
+
+---
+
+# Trying a diffrent format again...
+
+<div>
+    <div>
+        <img width=360px align=right
+            src="https://github-readme-stats.vercel.app/api?username=daephx&show_icons=true&hide_border=true&bg_color=00000000&text_color=dddddd&count_private=true&include_all_commits=true"></img>
+        <img width=360px align=right
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=daephx&layout=compact&hide_border=true&bg_color=00000000&text_color=dddddd"></img>
+        <!-- Social Links -->
+        <a href="https://gitlab.com/daephx" target="_blank" rel="noopener noreferrer"><img alt="Daemon Phenex | GitLab"
+                width="26px" align=right src="https://github.com/daephx/daephx/blob/master/assets/GitLab.svg" /></a>
+        <!-- <a href="https://in.linkedin.com/in/daephx" target="_blank" rel="noopener noreferrer"><img
+                    alt="Daemon Phenex | Linkedin" width="24px" align=right
+                    src="https://github.com/daephx/daephx/blob/master/assets/Linkedin.svg" /></a> -->
+        <!-- <a href="https://instagram.com/daephx/" target="_blank" rel="noopener noreferrer"><img
+                    alt="Daemon Phenex | Instagram" width="24px" align=right
+                    src="https://github.com/daephx/daephx/blob/master/assets/Instagram.svg" /></a> -->
+        <a href="https://twitter.com/xpandaemonium" target="_blank" rel="noopener noreferrer"><img
+                alt="Daemon Phenex | Twitter" width="24px" align=right
+                src="https://github.com/daephx/daephx/blob/master/assets/Twitter.svg" /></a>
+        <a href="https://www.youtube.com/channel/UCvWVQZRK5lmETzEf_CNmwcw" target="_blank" rel="noopener noreferrer"><img alt="Daemon Phenex | Youtube"
+                width="26px" align=right src="https://github.com/daephx/daephx/blob/master/assets/YouTube.svg" /></a>
+        <a href="mailto:demonphoenix42@gmail.com" target="_blank" rel="noopener noreferrer"><img
+                alt="Daemon Phenex | Gmail" width="26px" align=right
+                src="https://github.com/daephx/daephx/blob/master/assets/Gmail.svg" /></a>
+    </div>
+    <p>
+        Qui commodo est tempor nostrud eiusmod nisi in duis exercitation sunt. Voluptate sunt dolor ad ut voluptate
+        labore in officia est ullamco enim commodo. Nulla ipsum qui voluptate cupidatat officia adipisicing ea mollit
+        minim cupidatat dolor ad laborum. Qui sit minim dolor culpa pariatur nostrud fugiat dolore consectetur officia
+        cupidatat ipsum pariatur sunt.
+    </p>
+</div>
