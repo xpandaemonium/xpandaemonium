@@ -58,17 +58,21 @@
 </div>
 
 <!-- Github Stats -->
-<div>
-<a href=""><img width=360px align=right src="https://github-readme-stats.vercel.app/api?username=daephx&show_icons=true&hide_border=true&bg_color=00000000&text_color=dddddd&count_private=true&include_all_commits=true"></img></a>
-<a href=""><img width=360px align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=daephx&layout=compact&hide_border=true&bg_color=00000000&text_color=dddddd"></img></a>
-</div>
+
+<p>Qui commodo est tempor nostrud eiusmod nisi in duis exercitation sunt. Voluptate sunt dolor ad ut voluptate labore in officia est ullamco enim commodo. Nulla ipsum qui voluptate cupidatat officia adipisicing ea mollit minim cupidatat dolor ad laborum. Qui sit minim dolor culpa pariatur nostrud fugiat dolore consectetur officia cupidatat ipsum pariatur sunt.</p>
+<div align=right>
+<a href=""><img width=360px src="https://github-readme-stats.vercel.app/api/top-langs/?username=daephx&layout=compact&hide_border=true&bg_color=00000000&text_color=dddddd"></img></a>
+<br>
+<a href=""><img width=360px src="https://github-readme-stats.vercel.app/api?username=daephx&show_icons=true&hide_border=true&bg_color=00000000&text_color=dddddd&count_private=true&include_all_commits=true"></img></a>
+
+
 <!-- Social Links -->
-<!-- <a href="https://gitlab.com/daephx" target="_blank" rel="noopener noreferrer"><img alt="Daemon Phenex | GitLab" width="26px" align=right src="https://github.com/daephx/daephx/blob/master/assets/GitLab.svg" /></a> -->
+<a href="https://gitlab.com/daephx" target="_blank" rel="noopener noreferrer"><img alt="Daemon Phenex | GitLab" width="26px" align=right src="https://github.com/daephx/daephx/blob/master/assets/GitLab.svg" /></a>
 <!-- <a href="https://in.linkedin.com/in/daephx" target="_blank" rel="noopener noreferrer"><img alt="Daemon Phenex | Linkedin" width="24px" align=right src="https://github.com/daephx/daephx/blob/master/assets/Linkedin.svg" /></a> -->
 <!-- <a href="https://instagram.com/daephx/" target="_blank" rel="noopener noreferrer"><img alt="Daemon Phenex | Instagram" width="24px" align=right src="https://github.com/daephx/daephx/blob/master/assets/Instagram.svg" /></a> -->
-<!-- <a href="https://twitter.com/xpandaemonium" target="_blank" rel="noopener noreferrer"><img alt="Daemon Phenex | Twitter" width="24px" align=right src="https://github.com/daephx/daephx/blob/master/assets/Twitter.svg" /></a> -->
-<!-- <a href="https://www.youtube.com/channel/UCvWVQZRK5lmETzEf_CNmwcw" target="_blank" rel="noopener noreferrer"><img alt="Daemon Phenex | Youtube" width="26px" align=right src="https://github.com/daephx/daephx/blob/master/assets/YouTube.svg" /></a> -->
-<!-- <a href="mailto:demonphoenix42@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Daemon Phenex | Gmail" width="26px" align=right src="https://github.com/daephx/daephx/blob/master/assets/Gmail.svg" /></a> -->
-<p>Qui commodo est tempor nostrud eiusmod nisi in duis exercitation sunt. Voluptate sunt dolor ad ut voluptate labore in officia est ullamco enim commodo. Nulla ipsum qui voluptate cupidatat officia adipisicing ea mollit minim cupidatat dolor ad laborum. Qui sit minim dolor culpa pariatur nostrud fugiat dolore consectetur officia cupidatat ipsum pariatur sunt.</p>
+<a href="https://twitter.com/xpandaemonium" target="_blank" rel="noopener noreferrer"><img alt="Daemon Phenex | Twitter" width="24px" align=right src="https://github.com/daephx/daephx/blob/master/assets/Twitter.svg" /></a>
+<a href="https://www.youtube.com/channel/UCvWVQZRK5lmETzEf_CNmwcw" target="_blank" rel="noopener noreferrer"><img alt="Daemon Phenex | Youtube" width="26px" align=right src="https://github.com/daephx/daephx/blob/master/assets/YouTube.svg" /></a>
+<a href="mailto:demonphoenix42@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Daemon Phenex | Gmail" width="26px" align=right src="https://github.com/daephx/daephx/blob/master/assets/Gmail.svg" /></a>
+</div>
 
 ---
