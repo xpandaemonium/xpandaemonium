@@ -33,7 +33,16 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/daephx?color=242424&label=Twitter&logo=Twitter&style=flat-square"></a>
   <a href="https://steamcommunity.com/id/xPandaemonium/" target="_blank" rel="noreferrer noopener">
   <img alt="Website" src="https://img.shields.io/website?color=242424&label=Steam&logo=Steam&logoColor=000000&style=flat-square&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FxPandaemonium%2F"></a>
-  <br><p>Qui commodo est tempor nostrud eiusmod nisi in duis exercitation sunt. Voluptate sunt dolor ad ut voluptate labore in officia est ullamco enim commodo. Nulla ipsum qui voluptate cupidatat officia adipisicing ea mollit minim cupidatat dolor ad laborum. Qui sit minim dolor culpa pariatur nostrud fugiat dolore consectetur officia cupidatat ipsum pariatur sunt.</p>
+  <br>
+</p>
+
+<!-- Introduction Paragraph -->
+
+<p align=center>
+Qui commodo est tempor nostrud eiusmod nisi in duis exercitation sunt. Voluptate sunt dolor ad ut
+voluptate labore in officia est ullamco enim commodo. Nulla ipsum qui voluptate cupidatat officia
+adipisicing ea mollit minim cupidatat dolor ad laborum. Qui sit minim dolor culpa pariatur nostrud
+fugiat dolore consectetur officia cupidatat ipsum pariatur sunt.
 </p>
 
 <!-- Github Stats -->
