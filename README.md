@@ -10,6 +10,7 @@
 <!-- Banner Image -->
 
 <img width=100% src="https://media.githubusercontent.com/media/daephx/daephx/master/assets/banner.gif"></img>
+<img width=100% src="https://media.githubusercontent.com/media/daephx/daephx/master/assets/start.gif"></img>
 
 <!-- General Links -->
 
