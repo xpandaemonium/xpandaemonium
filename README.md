@@ -27,7 +27,7 @@
 </div>
 -->
 
-<img align=left width=450px src="https://media.githubusercontent.com/media/daephx/daephx/master/assets/banner.gif"></img>
+<img align=left width=100% src="https://media.githubusercontent.com/media/daephx/daephx/master/assets/banner.gif"></img>
 
 <div align=right>
 <p align=center>Qui commodo est tempor nostrud eiusmod nisi in duis exercitation sunt. Voluptate sunt dolor ad ut voluptate labore in officia est ullamco enim commodo. Nulla ipsum qui voluptate cupidatat officia adipisicing ea mollit minim cupidatat dolor ad laborum. Qui sit minim dolor culpa pariatur nostrud fugiat dolore consectetur officia cupidatat ipsum pariatur sunt.</p>
