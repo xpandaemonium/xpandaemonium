@@ -50,7 +50,7 @@ fugiat dolore consectetur officia cupidatat ipsum pariatur sunt.
 <details id="readme_stats"><br>
   <summary>:zap: <b>Github Stats</b></summary>
   <p align=center>
-  <img width=50% src="https://github-readme-stats.daephx.vercel.app/api?username=daephx&show_icons=true&hide_border=true&bg_color=000000&text_color=dddddd&count_private=true&include_all_commits=true"></img>
-  <img width=46% src="https://github-readme-stats.daephx.vercel.app/api/top-langs/?username=daephx&layout=compact&hide_border=true&bg_color=000000&text_color=dddddd"></img>
+  <img align="" height="137px" src="https://github-readme-stats.daephx.vercel.app/api/?username=daephx&hide_title=true&show_icons=true&hide_border=true&line_height=21&bg_color=000000&text_color=dddddd&count_private=true&include_all_commits=true"/>
+  <img align="" height="137px" src="https://github-readme-stats.daephx.vercel.app/api/top-langs/?username=daephx&hide_title=true&layout=compact&hide_border=true&bg_color=000000&text_color=dddddd"/>
   <br></p>
 </details>
