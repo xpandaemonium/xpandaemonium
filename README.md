@@ -66,7 +66,7 @@ fugiat dolore consectetur officia cupidatat ipsum pariatur sunt.
 
   <p align=center>
   <img height="137px" src="https://github-readme-stats.daephx.vercel.app/api/?username=daephx&hide_title=true&show_icons=true&hide_border=true&line_height=21&bg_color=000000&text_color=dddddd&count_private=true&include_all_commits=true"/>
-  <img height="137px" src="https://github-readme-stats.daephx.vercel.app/api/top-langs/?username=daephx&exclude_repo=github-readme-stats,daephx.github.io&hide_title=true&layout=compact&langs_count=6&hide_border=true&bg_color=000000&text_color=dddddd"/>
+  <img height="137px" src="https://github-readme-stats.daephx.vercel.app/api/top-langs/?username=daephx&exclude_repo=github-readme-stats,daephx.github.io,etckeeper-RPi&hide_title=true&layout=compact&langs_count=6&hide_border=true&bg_color=000000&text_color=dddddd"/>
   <!-- Hide from Top Languages [NO SPACES]: &hide=css, javascript, html -->
   <br></p>
 
