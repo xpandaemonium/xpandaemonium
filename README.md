@@ -60,14 +60,14 @@ fugiat dolore consectetur officia cupidatat ipsum pariatur sunt.
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-000?style=flat&logo=typescript&link=https://www.typescriptlang.org/"/>
   </div>  
  
-
   <!-- Readme Cards -->
 
-  <p align=center>
-  <img height="137px" src="https://github-readme-stats.daephx.vercel.app/api/?username=daephx&hide_title=true&show_icons=true&hide_border=true&line_height=21&bg_color=000000&text_color=dddddd&count_private=true&include_all_commits=true"/>
-  <img height="137px" src="https://github-readme-stats.daephx.vercel.app/api/top-langs/?username=daephx&exclude_repo=github-readme-stats,daephx.github.io,etckeeper-RPi&hide_title=true&layout=compact&langs_count=6&hide_border=true&bg_color=000000&text_color=dddddd"/>
+  <div align=center>
+  <a href="#readme_stats"><img height="137px" src="https://github-readme-stats.daephx.vercel.app/api/?username=daephx&hide_title=true&show_icons=true&hide_border=true&line_height=21&bg_color=000000&text_color=dddddd&count_private=true&include_all_commits=true"/></a>
+  <a href="#readme_stats"><img height="137px" src="https://github-readme-stats.daephx.vercel.app/api/top-langs/?username=daephx&exclude_repo=github-readme-stats,daephx.github.io,etckeeper-RPi&hide_title=true&layout=compact&langs_count=6&hide_border=true&bg_color=000000&text_color=dddddd"/></a>
   <!-- Hide from Top Languages [NO SPACES]: &hide=css, javascript, html -->
-  <br></p>
+  <br>
+  </div>
 
 </details>
 </div>
