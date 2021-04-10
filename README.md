@@ -8,9 +8,8 @@
 -->
 
 <!-- Banner Image -->
-<a href="#"><img width=100% src="https://media.githubusercontent.com/media/daephx/daephx/master/assets/banner.gif"/></a>
-<a href="#"><img width=100% src="https://media.githubusercontent.com/media/daephx/daephx/master/assets/start.gif"/></a>
-
+<a href="#"><img width=100% src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/banner.gif"/></a>
+<a href="#"><img width=100% src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/start.gif"/></a>
 <!-- General Links -->
 
 <p align="center">
