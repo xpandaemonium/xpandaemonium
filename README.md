@@ -14,9 +14,9 @@
 
 <p align="center">
   <a href="https://daephx.github.io" target="_blank" rel="noreferrer noopener">
-  Website
+<div align="center">
   </a>
-  •
+  Pages
   <a href="#readme_social">
   Social
   </a>
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<!-- Social Shields -->
+</div>
 
 <p id="readme_social" align=center>
   <a href="" target="_blank" rel="noreferrer noopener">
