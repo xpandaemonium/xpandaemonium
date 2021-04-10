@@ -5,6 +5,22 @@
   A Flashy introduction for your github profile, 
   add details and links the explain what kinda work you do!
 
+  For testing modifications, got to the 'develop' branch:
+  https://github.com/daephx/daephx/tree/develop
+
+  and run this script in the browser console:
+
+``` js
+// Delete sidebar element
+var sideBar = document.querySelector("#repo-content-pjax-container > div > div.gutter-condensed.gutter-lg.flex-column.flex-md-row.d-flex > div.flex-shrink-0.col-12.col-md-3");
+sideBar.remove();
+
+// Expand readme element
+var sideBar = document.querySelector("#repo-content-pjax-container > div > div.gutter-condensed.gutter-lg.flex-column.flex-md-row.d-flex > div");
+sideBar.classList.remove("col-md-9");
+sideBar.classList.add("col-md-10");
+```
+
 -->
 
 <!-- Banner Image -->
