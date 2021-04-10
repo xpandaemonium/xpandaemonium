@@ -22,7 +22,6 @@
 </div>
 
 <p id="readme_social" align=center>
-  <a href="" target="_blank" rel="noreferrer noopener">
 <div id="readme_social" align=center>
   <!-- <a href="" target="_blank" rel="noreferrer noopener">
   <img alt="GitHub followers" src="https://img.shields.io/github/stars/daephx?color=242424&label=Github&logo=Github&logoColor=white"></a> -->
