@@ -17,6 +17,7 @@
   <a href="https://daephx.github.io" target="_blank" rel="noreferrer noopener">Pages</a>
   • <a href="#readme_social">Socials</a>
   • <a href="#user-content-readme_stats">Stats</a>
+  • <a href="https://gist.github.com/daephx">Gists</a>
   <a href=""><img align="center" width="3%" src="https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/2927147/ello-optimized-403669e9.gif"/></a>
 </div>
 
