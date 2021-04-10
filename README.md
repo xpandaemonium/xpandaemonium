@@ -12,20 +12,13 @@
 <a href="#"><img width=100% src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/start.gif"/></a>
 <!-- General Links -->
 
-<p align="center">
-  <a href="https://daephx.github.io" target="_blank" rel="noreferrer noopener">
 <div align="center">
-  </a>
-  Pages
-  <a href="#readme_social">
-  Social
-  </a>
-  •
-  <a href="#readme_stats">
-  Stats
-  </a>
-</p>
-
+  <a href="#"><img align="center" width="3%" src="https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/2927147/ello-optimized-403669e9.gif"/></a>
+  <a href="https://daephx.github.io" target="_blank" rel="noreferrer noopener">Pages</a>
+  • <a href="#readme_social">Socials</a>
+  • <a href="#user-content-readme_stats">Stats</a>
+  • <a href="?tab=repositories">Repos</a>
+  <a href="#"><img align="center" width="3%" src="https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/2927147/ello-optimized-403669e9.gif"/></a>
 </div>
 
 <p id="readme_social" align=center>
