@@ -133,7 +133,6 @@ here's a few things I'm interested in.
 
   <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=daephx&theme=react-dark&bg_color=00000000&hide_border=true&area=true&custom_title=%20"/></a>
 
-<hr/>
 </details>
 </div>
 
@@ -153,5 +152,3 @@ See the rest of my
 
 </details>
 </div>
-
-<hr/>
