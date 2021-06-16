@@ -45,15 +45,14 @@
 <div>
 
 Hello! My name is **Damon**,  
-I'm on an endless journey to suck less,
-and hope to have some fun on the way!
+We are all on an endless journey to suck less, let's just hope for some fun on the way!
 
 here's a few things I'm interested in.
 
-- ⚗️ Science and why we exist
+- ⚗️ Science and how shit work
 - 🎮 Games of all kind
-- 💢 Anime & Manga
-- 🤖 Programming & Automation
+- 💢 Anime and Manga
+- 🤖 Programming and Automation
 
 <hr/>
 </div>
