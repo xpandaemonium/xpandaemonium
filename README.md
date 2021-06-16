@@ -19,9 +19,8 @@
 
 <div align="center">
   <a href="#"><img align="center" width="3%" src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/gem.gif"/></a>
-  <a href="https://daephx.github.io">Pages</a>
-  • <a href="#readme_social">Socials</a>
-  • <a href="#user-content-readme_stats">Stats</a>
+  <a href="https://daephx.github.io" target="_blank" rel="noopener noreferrer">Pages</a>
+  • <a href="#user-content-readme-stats">Stats</a>
   • <a href="https://gist.github.com/daephx">Gists</a>
   <a href="#"><img align="center" width="3%" src="https://media.githubusercontent.com/media/daephx/daephx/main/assets/gem.gif"/></a>
 </div>
@@ -29,12 +28,13 @@
 <p id="readme_social" align=center>
 <div id="readme_social" align=center>
   <a href="#">
-    <a href="https://github.com/daephx" target="_blank"><img alt="daephx" src="https://badges.pufler.dev/visits/daephx/daephx?logo=GitHub&label=Visits&color=242424&logoColor=white&style=flat-square"/></a>
-  <a href="https://reddit.com">
+    <a href="https://github.com/daephx" target="_blank" rel="noopener noreferrer">
+    <img alt="daephx" src="https://badges.pufler.dev/visits/daephx/daephx?logo=GitHub&label=Visits&color=242424&logoColor=white&style=flat-square"/></a>
+  <a href="https://reddit.com" target="_blank" rel="noopener noreferrer">
   <img alt="Reddit Karma" src="https://img.shields.io/reddit/user-karma/combined/daephx?color=242424&label=Reddit&logo=Reddit&style=flat-square"></a>
-  <a href="https://twitter.com/daephx">
+  <a href="https://twitter.com/daephx" target="_blank" rel="noopener noreferrer">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/daephx?color=242424&label=Twitter&logo=Twitter&style=flat-square"></a>
-  <a href="https://steamcommunity.com/id/xPandaemonium/">
+  <a href="https://steamcommunity.com/id/xPandaemonium/" target="_blank" rel="noopener noreferrer">
   <img alt="Website" src="https://img.shields.io/website?color=242424&label=Steam&logo=Steam&logoColor=000000&style=flat-square&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FxPandaemonium%2F"></a>
 </div>
 
