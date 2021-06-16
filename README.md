@@ -87,7 +87,7 @@ here's a few things I'm interested in.
   <!-- <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal-black?style=flat-square&logo=unrealengine"/> -->
   <img alt="AutoHotkey" src="https://img.shields.io/badge/AutoHotkey-black?style=flat-square&logo=AutoHotkey"/>
   <img alt="Bash" src="https://img.shields.io/badge/Bash-000?style=flat&logo=GNU-Bash&link=https://www.gnu.org/software/bash/"/>
-  <img alt="CSharp" src="https://img.shields.io/badge/CSharp-black?style=flat-square&logo=csharp"/>
+  <img alt="CSharp" src="https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3"/>
   <img alt="Discord" src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker"/>
